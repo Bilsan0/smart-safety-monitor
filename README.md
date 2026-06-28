@@ -53,8 +53,7 @@ The system monitors two conditions simultaneously:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-safety-monitor.git
-cd smart-safety-monitor
+git clone https://github.com/Bilsan0/smart-safety-monitor.git
 ```
 
 ### 2. Install dependencies
