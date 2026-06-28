@@ -1,0 +1,27 @@
+# بيانات حساسة — لا تُرفع أبداً
+.env
+*.env
+
+# موديل الذكاء الاصطناعي (كبير الحجم)
+face_landmarker.task
+
+# ملفات Python
+__pycache__/
+*.pyc
+*.pyo
+
+# بيئة Python الافتراضية
+venv/
+env/
+.venv/
+
+# ملفات IDE
+.vscode/
+.idea/
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# سجلات
+*.log
