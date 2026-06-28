@@ -124,12 +124,15 @@ smart-safety-monitor/
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**[Your Name]**  
-Robotics & AI Student — Jadara University, Jordan  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+**Bilsan Amjad Anwar Al-Shabboul**  
+**Sham Mohammad Nabil Al-Maqri**  
+Team ELITE — Jadara University, Jordan  
+📧 bilsan09216@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/bilsan-alshboul-89164b328)  
+🏆 RoboCraft Competition — IEEE RAS Student Chapter, Jadara University
+💻 [GitHub](https://github.com/Bilsan0)
 
 ---
 
